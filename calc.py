@@ -12,3 +12,12 @@ if op == "+":
 elif op == "-":
     print (num1 - num2)
 
+elif op == "*":
+    print (num1 * num2)
+
+elif op == "/":
+    print (num1 - num2)
+
+else:
+    print ("Error in input")
+    break
