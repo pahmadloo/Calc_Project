@@ -21,3 +21,7 @@ elif op == "/":
 else:
     print ("Error in input")
     break
+
+print ("Done")
+
+#End of file
