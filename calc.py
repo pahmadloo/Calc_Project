@@ -1,3 +1,6 @@
+"""
+Simple python calculator
+"""
 import sys
 
 #print (sys.argv)
@@ -12,7 +15,8 @@ if op == "+":
 elif op == "-":
     print (num1 - num2)
 
-elif op == "*":
+elif op == "x":
+    #in bash (for git) * means all files, so cannot
     print (num1 * num2)
 
 elif op == "/":
